@@ -19,8 +19,8 @@ In addition, this program corrects the path to communicate with all sensors to c
 * **Initiation**  
 &nbsp;  
 <p align="center">
-  <img src="./images/init1.png" width="50%" height="50%">
-  <img src="./images/init2.png" width="50%" height="50%">
+  <img src="./images/init1.png" width="90%" height="90%">
+  <img src="./images/init2.png" width="90%" height="90%">
 </p>  
 &nbsp;  
 
@@ -28,7 +28,7 @@ In addition, this program corrects the path to communicate with all sensors to c
 * **Training**  
 &nbsp;  
 <p align="center">
-  <img src="./images/training.png" width="50%" height="50%">
+  <img src="./images/training.png" width="90%" height="90%">
 </p>  
 &nbsp;  
 
@@ -36,8 +36,8 @@ In addition, this program corrects the path to communicate with all sensors to c
 * **Illustration**  
 &nbsp;  
 <p align="center">
-  <img src="./images/illust1.png" width="50%" height="50%">
-  <img src="./images/illust2.png" width="50%" height="50%">
+  <img src="./images/Illust1.png" width="90%" height="90%">
+  <img src="./images/illust2.png" width="90%" height="90%">
 </p>  
 &nbsp;  
 
