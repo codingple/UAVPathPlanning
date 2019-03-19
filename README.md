@@ -11,3 +11,35 @@ The polynomial regression using GPS coordinates of deployed sensors generates an
 In addition, this program corrects the path to communicate with all sensors to collect.  
   
 ### Prerequisite  
+- Python (ver. 3.6)  
+- Tensorflow for python 3.6  
+- Matplotlib  
+
+### Description  
+* **Initiation**  
+&nbsp;  
+<p align="center">
+  <img src="./images/init1.png" width="50%" height="50%">
+  <img src="./images/init2.png" width="50%" height="50%">
+</p>  
+&nbsp;  
+
+  
+* **Training**  
+&nbsp;  
+<p align="center">
+  <img src="./images/training.png" width="50%" height="50%">
+</p>  
+&nbsp;  
+
+  
+* **Illustration**  
+&nbsp;  
+<p align="center">
+  <img src="./images/illust1.png" width="50%" height="50%">
+  <img src="./images/illust2.png" width="50%" height="50%">
+</p>  
+&nbsp;  
+
+  
+### Results  
