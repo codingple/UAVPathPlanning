@@ -44,15 +44,14 @@ In addition, this program corrects the path to communicate with all sensors to c
   
 ### Results  
 The following figure is an example of result:  
-&nbsp;  
 <p align="center">
-  <img src="./images/result.png" width="90%" height="90%">
+  <img src="./images/result.png" width="50%" height="50%">
 </p>  
 &nbsp; 
 
 In contrast, this is the result when is a general regression without using "range correction(1st Path)":
 &nbsp;  
 <p align="center">
-  <img src="./images/regression.png" width="90%" height="90%">
+  <img src="./images/regression.png" width="50%" height="50%">
 </p>  
 &nbsp; 
